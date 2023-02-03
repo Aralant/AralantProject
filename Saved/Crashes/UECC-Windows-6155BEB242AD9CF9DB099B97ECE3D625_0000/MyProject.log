@@ -1,0 +1,30 @@
+Stats thread started at 0.506538
+ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-6155BEB242AD9CF9DB099B97ECE3D625
+         Session CrashGUID >====================================================
+Loading Mac ini files took 0.04 seconds
+Loading HoloLens ini files took 0.04 seconds
+Loading TVOS ini files took 0.04 seconds
+Loading IOS ini files took 0.04 seconds
+Loading Unix ini files took 0.05 seconds
+Loading Linux ini files took 0.05 seconds
+Loading LinuxArm64 ini files took 0.05 seconds
+Loading Android ini files took 0.04 seconds
+Loading VulkanPC ini files took 0.01 seconds
+Loading Windows ini files took 0.01 seconds
+Mounting Engine plugin Bridge
+Mounting Engine plugin EnhancedInput
+Mounting Engine plugin FastBuildController
+Mounting Engine plugin MeshPainting
+Mounting Engine plugin XGEController
+Mounting Engine plugin TraceUtilities
+Mounting Engine plugin AISupport
+Mounting Engine plugin EnvironmentQueryEditor
+Mounting Engine plugin BlueprintHeaderView
+Mounting Engine plugin AssetManagerEditor
+Mounting Engine plugin CryptoKeys
+Mounting Engine plugin EditorDebugTools
+Mounting Engine plugin DataValidation
+Mounting Engine plugin CurveEditorTools
+Mounting Engine plugin FacialAnimation

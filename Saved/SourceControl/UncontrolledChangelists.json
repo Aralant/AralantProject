@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE_5_Project/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/UE_5_Project/MyProject/Content/Blueprints/Items/BP_Item.uasset",
+				"D:/UE_5_Project/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UE_5_Project/MyProject/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/UE_5_Project/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UE_5_Project/MyProject/Content/Weapon/Material__214.uasset",
+				"D:/UE_5_Project/MyProject/Content/__ExternalActors__/Map3x3/C/JJ/53TN7DN8ZM10UMYB0P5CD9.uasset",
+				"D:/UE_5_Project/MyProject/Content/__ExternalActors__/Map3x3/C/85/GT5HJPO7MGIRFQ75U7XQID.uasset",
+				"D:/UE_5_Project/MyProject/Content/Blueprints/Items/Weapon/BP_Weapon.uasset",
+				"D:/UE_5_Project/MyProject/Content/Weapon/Sword07_fbx.uasset",
+				"D:/UE_5_Project/MyProject/Content/Weapon/sword7.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/Meshs/Walking__1__Skeleton.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/Meshs/Walking__1_.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/Animations/Attack_Combo.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/Animations/Attack_Slash.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/Animations/Great_Sword_Idle.uasset",
+				"D:/UE_5_Project/MyProject/Content/Blueprints/Character/Animation/ABP_Char.uasset",
+				"D:/UE_5_Project/MyProject/Content/Blueprints/Character/BP_MyCharacter.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/Animations/AM_Attack.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/Animations/Unarmed_Idle.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/Animations/Equip.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/Animations/Unequip.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/Animations/AM_Equip.uasset",
+				"D:/UE_5_Project/MyProject/Content/__ExternalActors__/Map3x3/A/GZ/0E43BPHSVRMQ7ZEESQ92ED.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/Animations/Standing_Disarm_Over_Shoulder.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/Animations/Disarm.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/Animations/Unarmed.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/AnimationMontages/AM_Attack.uasset",
+				"D:/UE_5_Project/MyProject/Content/Character/Animations/Attack.uasset",
+				"D:/UE_5_Project/MyProject/Content/__ExternalActors__/Map3x3/3/HF/7HZ19KM86UQOZXXZ7QLQVO.uasset",
+				"D:/UE_5_Project/MyProject/Content/__ExternalActors__/Map3x3/6/YX/448PLXR090X4926L8RWR1P.uasset"
+			]
+		}
+	]
+}
